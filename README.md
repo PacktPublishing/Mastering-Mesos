@@ -7,7 +7,7 @@ This is the code repository for [Mastering-Mesos](https://www.packtpub.com/big-d
 
 
 
-##Related Swift Products:
+##Related Apache Products:
 * [Apache Mesos Essentials](https://www.packtpub.com/big-data-and-business-intelligence/apache-mesos-essentials?utm_source=repository&utm_medium=github&utm_campaign=9781783288762)
 * [Apache ZooKeeper Essentials](https://www.packtpub.com/big-data-and-business-intelligence/apache-zookeeper-essentials?utm_source=repository&utm_medium=github&utm_campaign=9781783288762)
-* [Object–Oriented Programming with Swift 2](https://www.packtpub.com/application-development/object%E2%80%93oriented-programming-swift-2?utm_source=github&utm_medium=related&utm_campaign=9781785885693)
+
