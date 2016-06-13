@@ -1,15 +1,23 @@
 # Mastering-Mesos
-Mastering Mesos by Packt Publishing
+Python Machine Learning Cookbook by Packt Publishing
 
-This is the code repository for [Mastering-Mesos](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781786464477), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
+This is the code repository for [Mastering-Mesos](https://www.packtpub.com/big-data-and-business-intelligence/mastering-mesos?utm_source=github&utm_medium=repository&utm_campaign=9781785886249), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
 
 ##Instructions and Navigation
+There are no additional code bundle for the following chapters:
+Chapter 1
+Chapter 3
+Chapter 7
+
+Chapter 1 only introduces the reader to Mesos and provides an  overview of Mesos’ architecture wherein no executable code is needed
+Chapter 3 simply serves as a tutorial for manually setting up and running Mesos on a cluster wherein there is barely any runnable code files
+Chapter 7 gives a detailed explanation of some common frameworks which is more theoretical with negligible codes
 
 
+##Related Apache Products:
+* [Apache Mesos Essentials](https://www.packtpub.com/big-data-and-business-intelligence/apache-mesos-essentials?utm_source=repository&utm_medium=github&utm_campaign=9781783288762)
+* [Apache ZooKeeper Essentials](https://www.packtpub.com/big-data-and-business-intelligence/apache-zookeeper-essentials?utm_source=repository&utm_medium=github&utm_campaign=9781783288762)
 
-##Related Python/Machine Learning Products:
-* [Python Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning?utm_source=github&utm_medium=repository&utm_campaign=9781783555130)
-* [Mastering Python Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/mastering-python-machine-learning?utm_source=github&utm_medium=repository&utm_campaign=9781783555130)
-* [OpenCV with Python By Example](https://www.packtpub.com/application-development/opencv-python-example?utm_source=github&utm_medium=repository&utm_campaign=9781785283932)
+
 
 
